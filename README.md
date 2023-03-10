@@ -16,6 +16,8 @@ This project was created to save precious time when creating a README.md file by
 
 There is no installation needed. Simply go to the link to acces the quiz webpage.
 
+https://kennedyisn.github.io/Module-4-Coding-Quiz-Challenge 
+
 ## Usage
 
 Click the start button on the starting webpage to start the timed quiz. With every wrong answer 10 seconds will be deducted from your time.
