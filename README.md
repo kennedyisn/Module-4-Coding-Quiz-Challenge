@@ -30,9 +30,9 @@ After the last question you will be directed to a screen to save your initials t
 
 ## Credits
 
-https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
-https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
-https://www.digitalocean.com/community/tutorials/nodejs-interactive-command-line-prompts
+https://stackoverflow.com/questions/20618355/how-to-write-a-countdown-timer-in-javascript
+https://teamtreehouse.com/community/create-new-li-element-using-jquery
+https://stackoverflow.com/questions/3450593/how-do-i-clear-the-content-of-a-div-using-javascript
 
 ## License
 
