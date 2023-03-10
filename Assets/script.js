@@ -106,8 +106,8 @@ function showQuestion() {
     var answerBtn = $('<button>', {
       text: question.answers[i],
       click: function () {
-        grader($(this),correctPick)
         displayNextQuestion()
+        grader($(this),correctPick)
       }
     })
     $('#answers').append(answerBtn);
@@ -145,8 +145,8 @@ function displayNextQuestion() {
         text: questionBlank.answers[i],
         id: "option",
         click: function () {
-          grader($(this), correctPick);
           displayNextQuestion()
+          grader($(this), correctPick);
         }
       })
       $('#answers').append(answerBtn);
